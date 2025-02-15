@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""`#Welcome to Fang Gong’s Website 欢迎来到我的个人网站"`"
+title: ""#Welcome to Fang Gong’s Website 欢迎来到我的个人网站"
 author_profile: true
 redirect_from: 
   - /about/
