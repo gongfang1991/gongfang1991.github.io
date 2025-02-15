@@ -25,9 +25,9 @@ author:
   avatar           : "photo-gf.png"
   name             : "Gong Fang"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Wuhan Institute of Technology"
   location         : #"Wuhan, Hubei"
-  employer         : "Wuhan Institute of Technology"
+  employer         : #"Wuhan Institute of Technology"
   uri              : # URL
   email            : "fang.gong@wit.edu.cn" 
 
