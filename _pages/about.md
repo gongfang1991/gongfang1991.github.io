@@ -13,15 +13,13 @@ Hi, I’m Fang Gong. I recieved my Ph.D. degree in Control Science and Engineeri
 
 Research Interest
 ======
-Currently, I am broadly interested in data mining and machine learning.
-
-In particular, the goal is to learn a good distance metric for nominal attributes to achieve categorical data classification. The difficulties of learning a good distance metric for nominal attributes lies in, but not limited to, how to characterize the attribute dependencies, how to distinguish the different importance among attributes, how to improve the awareness of multi-class imbalance, how to adapt the concept shift, how to learn from small samples, how to learn in weakly supervised scenarios, and so on. We wish to develop the effective and efficient methods about stucture extension, attribtue weighting, cost-sensitive attribute selection, incremental learning, meta-learning, semi-supervised learning to tackle these challenges.
+Currently, I am broadly interested in data mining and machine learning. In particular, the goal is to learn a good distance metric for nominal attributes to achieve categorical data classification. The difficulties of learning a good distance metric for nominal attributes lies in, but not limited to, how to characterize the attribute dependencies, how to distinguish the different importance among attributes, how to improve the awareness of multi-class imbalance, how to adapt the concept shift, how to learn from small samples, how to learn in weakly supervised scenarios, and so on. We wish to develop the effective and efficient methods about stucture extension, attribtue weighting, cost-sensitive attribute selection, incremental learning, meta-learning, semi-supervised learning to tackle these challenges.
 <br>目前，我的研究兴趣是数据挖掘和机器学习。特别是，学习一个好的名词性属性距离度量来进行分类数据分类。学习一个好的距离度量的困难在于（但不仅限于），如何刻画属性间的依赖关系，如何区分不同属性的重要性，如何提高距离度量的类不平衡感知能力，如何适应概念漂移，如何从小样本中学习，如何在弱监督场景下学习，等等。我们希望设计有效且快速的结构扩展、属性加权、代价敏感属性选择、增量学习、元学习、半监督学习方法来克服上述困难。
 
 News
 ======
 ✌️ 2023.06-Congratulations! Our paper "Using differential evolution for an attribute-weighted inverted specific-class distance measure for nominal attributes" is accepted in Data Mining and Knowledge Discovery (CCF-B, IF4.8). It's my first work in Wuhan Institute of Technology.
-<br>**祝贺！我们的工作“基于差分演化属性加权的反转类指定距离度量”被录取到了Data Mining and Knowledge Discovery (CCF-B, IF4.8)。这是我加入武汉工程大学后的第一个工作.**
+<br>**祝贺！我们的工作“基于差分演化属性加权的反转类指定距离度量”被录取到了Data Mining and Knowledge Discovery (CCF-B, IF4.8)。这是我加入武汉工程大学后的第一个工作。**
 
 ✌️ 2022.08-I have joined the Causality and Uncertainty in Artificial Intelligence Committee of Chinese Association for Artificial Intelligence as the communication committee member and I will try my best to serve the committee in the future!
 <br>**我已经加入中国人工智能学会因果与不确定性人工智能专委会担任通讯委员，未来我将尽全力为专委会做好服务工作！**
