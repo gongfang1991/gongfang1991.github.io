@@ -10,9 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi, I’m Fang Gong. I recieved my Ph.D. degree in Control Science and Engineering at China University of Geosciences (Wuhan) in 2021, supervised by prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/). Currently, I’m a lecturer and research supervisor in [School of Computer Science and Engineering](https://cs.wit.edu.cn/) at [Wuhan Institute of Technology](https://www.wit.edu.cn/index.htm). 
-
-From Dec 2019 to Dec 2020, I visited the [Intelligent Geospatial Data Mining Lab](https://www.ucalgary.ca/labs/intelligent-geospatial-data-mining/home) of [University of Calgary](https://www.ucalgary.ca/), supervised by prof. [Xin Wang](https://profiles.ucalgary.ca/xin-wang).
+Hi, I’m Fang Gong. I recieved my Ph.D. degree in Control Science and Engineering at China University of Geosciences (Wuhan) in 2021, supervised by prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/). Currently, I’m a lecturer and research supervisor in [School of Computer Science and Engineering](https://cs.wit.edu.cn/) at [Wuhan Institute of Technology](https://www.wit.edu.cn/index.htm). From Dec 2019 to Dec 2020, I visited the [Intelligent Geospatial Data Mining Lab](https://www.ucalgary.ca/labs/intelligent-geospatial-data-mining/home) of [University of Calgary](https://www.ucalgary.ca/), supervised by prof. [Xin Wang](https://profiles.ucalgary.ca/xin-wang).
 <br>嗨，我是龚芳。2021年毕业于中国地质大学（武汉）控制科学与工程专业，获工学博士学位，导师是[蒋良孝教授](https://grzy.cug.edu.cn/jlx/)。目前，我就职于武汉工程大学计算机科学与工程学院，担任讲师，硕士生导师。从2019年12月到202年12月，我在卡尔加里大学智能地理数据挖掘实验室进行访问学习，导师是[王欣教授](https://profiles.ucalgary.ca/xin-wang)。
 
 Research Interest
@@ -20,7 +18,7 @@ Research Interest
 Currently, I am broadly interested in data mining and machine learning.
 
 In particular, the goal is to learn a good distance metric for nominal attributes to achieve categorical data classification. The difficulties of learning a good distance metric for nominal attributes lies in, but not limited to, how to characterize the attribute dependencies, how to distinguish the different importance among attributes, how to improve the awareness of multi-class imbalance, how to adapt the concept shift, how to learn from small samples, how to learn in weakly supervised scenarios, and so on. We wish to develop the effective and efficient methods about stucture extension, attribtue weighting, cost-sensitive attribute selection, incremental learning, meta-learning, semi-supervised learning to tackle these challenges.
-<br>目前，我的研究兴趣是数据挖掘和机器学习。特别是，学习一个好的名词性属性距离度量来进行分类数据分类。学习一个好的距离度量的困难在于（但不仅限于），如何刻画属性间的依赖关系，如何区分不同属性的重要性，如何提高距离度量的类不平衡感知能力，如何适应概念漂移，如何从小样本中学习，如何在弱监督场景下学习，等等。我们希望设计有效且快速的结构扩展、属性加权、代价敏感属性选择、增量学习、原学习、半监督学习方法来克服上述困难。
+<br>目前，我的研究兴趣是数据挖掘和机器学习。特别是，学习一个好的名词性属性距离度量来进行分类数据分类。学习一个好的距离度量的困难在于（但不仅限于），如何刻画属性间的依赖关系，如何区分不同属性的重要性，如何提高距离度量的类不平衡感知能力，如何适应概念漂移，如何从小样本中学习，如何在弱监督场景下学习，等等。我们希望设计有效且快速的结构扩展、属性加权、代价敏感属性选择、增量学习、元学习、半监督学习方法来克服上述困难。
 
 News
 ======
