@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-About Me
+<br><br>About Me
 ======
 Hi, I’m Fang Gong. I recieved my Ph.D. degree in Control Science and Engineering at China University of Geosciences (Wuhan) in 2021, supervised by prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/). Currently, I’m a lecturer and research supervisor in [School of Computer Science and Engineering](https://cs.wit.edu.cn/) at [Wuhan Institute of Technology](https://www.wit.edu.cn/index.htm). From Dec 2019 to Dec 2020, I visited the [Intelligent Geospatial Data Mining Lab](https://www.ucalgary.ca/labs/intelligent-geospatial-data-mining/home) of [University of Calgary](https://www.ucalgary.ca/), supervised by prof. [Xin Wang](https://profiles.ucalgary.ca/xin-wang).
 <br>嗨，我是龚芳。2021年毕业于中国地质大学（武汉）控制科学与工程专业，获工学博士学位，导师是[蒋良孝教授](https://grzy.cug.edu.cn/jlx/)。目前，我就职于武汉工程大学计算机科学与工程学院，担任讲师，硕士生导师。从2019年12月到202年12月，我在卡尔加里大学智能地理数据挖掘实验室进行访问学习，导师是[王欣教授](https://profiles.ucalgary.ca/xin-wang)。
