@@ -12,30 +12,30 @@ redirect_from:
 <br>2023
 ======
 [Using differential evolution for an attribute-weighted inverted specific-class distance measure for nominal attributes](https://doi.org/10.1007/s10618-022-00881-w)
-<br>Authors: Fang Gong, Xingfeng Guo*, Dianhong Wang
+<br>Authors: **Fang Gong**, Xingfeng Guo*, Dianhong Wang
 <br>Publications: Data Mining and Knowledge Discovery, 2023, 37: 409–433. (SCI, 中科院3区, CCF-B)
 
 2021
 ======
 [Fine-grained attribute weighted inverted specific-class distance measure for nominal attributes](https://doi.org/10.1016/j.ins.2021.08.041)
-<br>Authors: Fang Gong, Xin wang<sub>*</sub>, Liangxiao Jiang<sub>**</sub>, Seyyed Mohammadreza Rahimi, Dianhong Wang
+<br>Authors: **Fang Gong**, Xin wang*, Liangxiao Jiang**, Seyyed Mohammadreza Rahimi, Dianhong Wang
 <br>Publications: Information Sciences, 2021, 578: 848–869. (SCI, 中科院1区, CCF-B)
   
 2020
 ======
 [Gain ratio weighted inverted specific-class distance measure for nominal attributes](https://doi.org/10.1007/s13042-020-01112-8)
-<br>Authors: Fang Gong, Liangxiao Jiang<sub>*</sub>, Huan Zhang, Dianhong Wang, Xingfeng Guo
+<br>Authors: **Fang Gong**, Liangxiao Jiang*, Huan Zhang, Dianhong Wang, Xingfeng Guo
 <br>Publications: International Journal of Machine Learning and Cybernetics, 2020, 11: 2237–2246. (SCI, 中科院3区, CCF-B)
 
 2019
 ======
 [Averaged one dependence inverted specific class distance measure for nominal attributes](https://www.tandfonline.com/doi/full/10.1080/0952813X.2019.1661587)
-<br>Authors: Fang Gong, Liangxiao Jiang<sub>*</sub>, Dianhong Wang, Xingfeng Guo
+<br>Authors: **Fang Gong**, Liangxiao Jiang*, Dianhong Wang, Xingfeng Guo
 <br>Publications: Journal of Experimental & Theoretical Artificial Intelligence, 2019, 32(4): 651–663. (SCI, 中科院4区, CCF-C)
   
 2018
 ======
 [基于SoC的NURBS曲线插补器研究与实现](https://doi.org/10.14107/j.cnki.kzgc.160557)
-<br>Authors: 龚芳，倪效勇<sub>*</sub>, 王典洪
+<br>Authors: **龚芳**，倪效勇<sub>*</sub>, 王典洪
 <br>Publications: 控制工程, 2018, 25(1): 19-24. (中文核心期刊)
 
