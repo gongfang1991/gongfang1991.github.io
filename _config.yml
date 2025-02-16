@@ -220,12 +220,27 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  fundings:
     output: true
     permalink: /:collection/:path/
-  talks:
+  services:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
+  links:
+    output: true
+    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
