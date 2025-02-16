@@ -11,16 +11,16 @@ redirect_from:
 
 <br>Journal Reviewer
 ======
-Neural Networks
-<br>Information Sciences
-<br>ACM Transactions on Knowledge Discovery from Data
-<br>Data Minining and Knowledge Discovery
-<br>International Journal of Machine Learning and Cybernetics
-<br>Knowledge and Information Systems
+* Neural Networks
+* Information Sciences
+* ACM Transactions on Knowledge Discovery from Data
+* Data Minining and Knowledge Discovery
+* International Journal of Machine Learning and Cybernetics
+* Knowledge and Information Systems
 
 Member
 ======
-CCF Member
-<br>CAAI Member
+* CCF Member
+* CAAI Member
 
 
