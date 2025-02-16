@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-2023
+<br>2023
 ======
 [Using differential evolution for an attribute-weighted inverted specific-class distance measure for nominal attributes](https://doi.org/10.1007/s10618-022-00881-w)
 <br>Authors: Fang Gong, Xingfeng Guo*, Dianhong Wang
