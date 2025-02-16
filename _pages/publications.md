@@ -36,6 +36,6 @@ redirect_from:
 2018
 ======
 [基于SoC的NURBS曲线插补器研究与实现](https://doi.org/10.14107/j.cnki.kzgc.160557)
-<br>Authors: **龚芳**，倪效勇<sub>*</sub>, 王典洪
+<br>Authors: **龚芳**，倪效勇*, 王典洪
 <br>Publications: 控制工程, 2018, 25(1): 19-24. (中文核心期刊)
 
