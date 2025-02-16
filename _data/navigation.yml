@@ -8,11 +8,26 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Fundings"
+    url: /fundings/
+
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Services"
+    url: /services/
+
+  - title: "Students"
+    url: /students/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Links"
+    url: /links/
     
   - title: "Portfolio"
     url: /portfolio/
