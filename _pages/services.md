@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <br>Journal Reviewer
-======
+------
 * Neural Networks
 * Information Sciences
 * ACM Transactions on Knowledge Discovery from Data
@@ -19,7 +19,7 @@ redirect_from:
 * Knowledge and Information Systems
 
 Member
-======
+------
 * CCF Member
 * CAAI Member
 
