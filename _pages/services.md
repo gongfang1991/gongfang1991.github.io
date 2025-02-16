@@ -11,7 +11,7 @@ redirect_from:
 
 <br>Journal Reviewer
 ======
-<br>Neural Networks
+Neural Networks
 <br>Information Sciences
 <br>ACM Transactions on Knowledge Discovery from Data
 <br>Data Minining and Knowledge Discovery
@@ -22,4 +22,5 @@ Member
 ======
 CCF Member
 <br>CAAI Member
+
 
