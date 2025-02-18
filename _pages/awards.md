@@ -17,6 +17,6 @@ redirect_from:
 <br>2020.11: The Best Oral Representation Award of the 20th IEEE International Conference on Data Mining 
 <br>2020.11：第二十届IEEE国际数据挖掘大会最佳口头报告奖
 
-<br>2018.11: The Third Prize of the 29th Postgraduate Scientific Paper Presentations in China University of Geosciences (Wuhan)
-<br>2018.11：中国地质大学（武汉）第二十九届研究生科技论文报告会三等奖
+<br>2017.11: The Third Prize of the 29th Postgraduate Scientific Paper Presentations in China University of Geosciences (Wuhan)
+<br>2017.11：中国地质大学（武汉）第二十八届研究生科技论文报告会三等奖
 
