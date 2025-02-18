@@ -17,11 +17,11 @@ redirect_from:
 
 Projects
 ------
-Hubei Province undergraduate curriculum ideological and political demonstration project, 2024.11, Ongoing, Particapation
-<br>湖北省高校本科生课程思政示范项目，2024.11，在研，参与
-
 Wuhan Institute of Technology undergraduate teaching research project, 2024.12, Ongoing, Manager
 <br>武汉工程大学本科生教学研究项目，2024.12，在研，主持
+
+Hubei Province undergraduate curriculum ideological and political demonstration project, 2024.11, Ongoing, Particapation
+<br>湖北省高校本科生课程思政示范项目，2024.11，在研，参与
 
 Competition guidance
 ------
