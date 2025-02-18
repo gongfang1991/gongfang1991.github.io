@@ -38,5 +38,5 @@ The 6th Global Campus Artificial Intelligence Algorithm Elite Competition(2024),
 <br>2024年度第六届全球校园人工智能算法精英大赛，湖北省三等奖（团队成员：付潇、宋雨枢、向逸）
 
 The 25th China Robot and Artificial Intelligence Competition(2023), Second prize of Hubei Province(team members: Mingkai Wang, Yang Huang, Yanlin Wang)
-<br>2024年度第二十六届中国机器人及人工智能大赛，湖北省二等奖（团队成员：王铭楷、黄杨、王彦霖）
+<br>2023年度第二十六届中国机器人及人工智能大赛，湖北省二等奖（团队成员：王铭楷、黄杨、王彦霖）
 
