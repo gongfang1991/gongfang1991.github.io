@@ -14,8 +14,8 @@ redirect_from:
 <br>2024.05：The Third Prize of the 11th National College Electrical and Electronic Foundation Course Experiment Teaching Case Design Competition (Dingyang Cup)
 <br>2024.05：第十一届全国高校电工电子基础课程实验教学案例设计竞赛（鼎阳杯）全国三等奖
 
-<br>2020.11: The Best Oral Representation Award of the 20th IEEE International Conference on Data Mining 
-<br>2020.11：第二十届IEEE国际数据挖掘大会最佳口头报告奖
+<br>2020.11: The Best Oral Representation Award of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining 
+<br>2020.11：第二十四届亚太知识发现与数据挖掘会议最佳口头报告奖
 
 <br>2017.11: The Third Prize of the 29th Postgraduate Scientific Paper Presentations in China University of Geosciences (Wuhan)
 <br>2017.11：中国地质大学（武汉）第二十八届研究生科技论文报告会三等奖
