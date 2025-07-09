@@ -11,7 +11,7 @@ redirect_from:
 <br>Open Fund Project of Hubei Key Laboratory of Multimedia Network Communication Engineering, 2025.06-2026.06, Ongoing, Manager
 <br>多媒体网络通信工程湖北省重点实验室开放基金项目，2025.06-2026.06，在研，主持
 
-<br>Science Foundation project of Wuhan Institute of Technology, 2023.06-2025.06, Ongoing, Manager
+Science Foundation project of Wuhan Institute of Technology, 2023.06-2025.06, Ongoing, Manager
 <br>武汉工程大学青年教师科研启动基金项目，2023.06-2025.06，在研，主持
 
 National Natural Science Foundation of China, 2023.1-2026.12, Ongoing, Participating
