@@ -21,7 +21,7 @@ News
 ✌️ 2025.07-Congratulations! Our work "K-nearest neighbor classification algorithm integrating multi-view generation and D-S Theory" has been accepted by Small System & Microcomputer System (CCF-T2). The first author is my graduate student, Jinhao Cui. We look forward to more exciting achievements for him in the future!
 <br>**祝贺！我们的工作“多视图生成与证据理论融合的k近邻分类算法”被小型微型计算机系统(CCF-T2类中文期刊)录用。第一作者是我指导的研究生崔金浩，期待他后续更多的精彩成果！**
 
-✌️ 2023.06-Congratulations! Our paper "Using differential evolution for an attribute-weighted inverted specific-class distance measure for nominal attributes" is accepted in Data Mining and Knowledge Discovery (CCF-B, IF4.8). It's my first work in Wuhan Institute of Technology.
+✌️ 2023.06-Congratulations! Our work "Using differential evolution for an attribute-weighted inverted specific-class distance measure for nominal attributes" is accepted in Data Mining and Knowledge Discovery (CCF-B, IF4.8). It's my first work in Wuhan Institute of Technology.
 <br>**祝贺！我们的工作“基于差分演化属性加权的反转类指定距离度量”被录取到了Data Mining and Knowledge Discovery (CCF-B, IF4.8)。这是我加入武汉工程大学后的第一个工作。**
 
 ✌️ 2022.08-I have joined the Causality and Uncertainty in Artificial Intelligence Committee of Chinese Association for Artificial Intelligence as the communication committee member and I will try my best to serve the committee in the future!
