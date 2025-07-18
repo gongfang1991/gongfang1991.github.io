@@ -18,6 +18,9 @@ Currently, I am broadly interested in data mining and machine learning. In parti
 
 News
 ======
+✌️ 2025.07-Congratulations! Our work "K-nearest neighbor classification algorithm integrating multi-view generation and D-S Theory" has been accepted by Small System & Microcomputer System (CCF-T2). The first author is my graduate student, Jinhao Cui, who has demonstrated solid research capabilities and innovative spirit in exploring the ensembling of k-nearest neighbor algorithms based on multi-view. We look forward to more exciting achievements in the future!
+<br>**祝贺！我们的工作“多视图生成与证据理论融合的k近邻分类算法”被小型微型计算机系统(CCF-T2类中文期刊)录用。第一作者是我指导的研究生崔金浩，他在探索基于多视图的k近邻算法集成过程中展现出了扎实的研究能力与创新精神，期待后续更多精彩成果！**
+
 ✌️ 2023.06-Congratulations! Our paper "Using differential evolution for an attribute-weighted inverted specific-class distance measure for nominal attributes" is accepted in Data Mining and Knowledge Discovery (CCF-B, IF4.8). It's my first work in Wuhan Institute of Technology.
 <br>**祝贺！我们的工作“基于差分演化属性加权的反转类指定距离度量”被录取到了Data Mining and Knowledge Discovery (CCF-B, IF4.8)。这是我加入武汉工程大学后的第一个工作。**
 
