@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br>2025.08：One of the third batch of national first-class undergraduate courses（Main contributors）
+<br>2025.08：获批第三批国家级一流本科课程（排五）
+
 <br>2024.06：The Third Prize of the 15th Wuhan Institute of Technology Young Teachers' Basic Teaching Skills Competition
 <br>2024.06：武汉工程大学第十五届青年教师教学基本功竞赛三等奖
 
