@@ -11,6 +11,10 @@ redirect_from:
 
 <br>2025
 ======
+[Hidden inverted specific-class distance measure for nominal attributes](https://doi.org/10.1145/3769293)
+<br>Authors: **Fang Gong***, Tao Lu, Kuayue Liu
+<br>Publications:ACM Transactions on Knowledge Discovery from Data，2025 (SCI, 中科院3区, CCF-B)
+
 [多视图生成与证据理论融合的k近邻分类算法](https://doi.org/10.20009/j.cnki.21-1106/TP.2025-0226)
 <br>Authors: Jinhao Cui, **Fang Gong***, Zhiqiang Zhang, Nannan Zhao, Haodong Lv, Chao Liang
 <br>Publications:小型微型计算机系统，2025 
