@@ -17,7 +17,7 @@ redirect_from:
 
 [多视图生成与证据理论融合的k近邻分类算法](https://doi.org/10.20009/j.cnki.21-1106/TP.2025-0226)
 <br>Authors: Jinhao Cui, **Fang Gong***, Zhiqiang Zhang, Nannan Zhao, Haodong Lv, Chao Liang
-<br>Publications:小型微型计算机系统，2025 
+<br>Publications: 小型微型计算机系统，2025 
 
 2023
 ======
