@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br>2026.04：Third Prize of the Sixth Hubei Province University Teachers' Teaching Innovation Competition
+<br>2026.04：第六届湖北省高校教师教学创新大赛三等奖
+
 <br>2025.10：Third Prize of the Fifth RIGOL Cup National University Electronic Information Specialty Course Experiment Teaching Case Design Competition (Central South Region Competition)
 <br>2025.10：第五届全国高校电子信息类专业课程实验教学案例设计竞赛（RIGOL杯）中南区赛三等奖
 
