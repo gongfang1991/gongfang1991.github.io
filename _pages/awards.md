@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br>2026.08：The Second Prize of the Eighth "Craftsmanship Builds Dreams, Leading the Future" National College Teachers' Skills Innovation Competition
+<br>2026.08：第八届“匠心筑梦 领航未来”全国高校教师技能创新大赛全国二等奖
+
 <br>2026.04：The Third Prize of the Sixth National University Teachers' Teaching Innovation Competition in Hubei Province
 <br>2026.04：第六届全国高校教师教学创新大赛湖北省三等奖
 
