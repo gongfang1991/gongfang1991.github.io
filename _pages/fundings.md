@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 <br>Open Fund Project of Hubei Key Laboratory of Multimedia Network Communication Engineering, 2025.06-2026.06, Ongoing, Manager
-<br>多媒体网络通信工程湖北省重点实验室开放基金项目，2025.06-2026.06，在研，主持
+<br>多媒体网络通信工程湖北省重点实验室开放基金项目，2025.06-2026.06，已结题，主持
 
 Science Foundation project of Wuhan Institute of Technology, 2023.06-2025.06, Ongoing, Manager
-<br>武汉工程大学青年教师科研启动基金项目，2023.06-2025.06，在研，主持
+<br>武汉工程大学青年教师科研启动基金项目，2023.06-2025.06，已结题，主持
 
 National Natural Science Foundation of China, 2023.1-2026.12, Ongoing, Participating
 <br>国家自然科学基金面上项目，2023.1-2026.12，在研，参与
