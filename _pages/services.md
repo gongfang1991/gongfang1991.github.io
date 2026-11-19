@@ -11,12 +11,15 @@ redirect_from:
 
 <br>Journal Reviewer
 ------
+* Knowledge-Based Systems
 * Neural Networks
 * Information Sciences
 * ACM Transactions on Knowledge Discovery from Data
 * Data Minining and Knowledge Discovery
 * International Journal of Machine Learning and Cybernetics
 * Knowledge and Information Systems
+* Intelligent Data Analysis
+* The 16th IEEE International Conference on Big Data and Cloud Computing
 
 Member
 ------
